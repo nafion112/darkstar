@@ -6,19 +6,21 @@ Stock Parts:
  - motors -
 RotorX RX1105 4000kv High Performance Brushless Motor
 http://www.getfpv.com/rotorx-rx1105-4000kv-high-performance-brushless-motor.html
- - motor diameter: 14mm
- - rotor height from base: 12.5mm
- - total height /w axle: 16.5mm (4mm axle protrusion)
- - axle diameter: 1.5mm
- - stator screw hole diameter: 9mm
- - rotor screw hole diameter: 5mm
+ - motor diameter: 14mm - measured
+ - rotor height from base: 12mm - measured
+ - total height /w axle: 16.5mm (4mm axle protrusion) - measured
+ - axle diameter: 1.5mm - measured
+ - stator screw hole diameter: 9mm - measured
+ - rotor screw hole diameter: 5mm - measured
  - rotor/stator screws: 4-M2
+ - wire width: <7mm - measured
+ - wire depth: <2.5mm - measured
 
  - props -
 Gemfan 2035 - 4 Blade Bullnose
 http://www.getfpv.com/gemfan-2035-4-blade-bullnose-purple-pc-set-of-4.html
  - they fit on the motors above with M2 screws
- - 1in radial clearance (~>25mm)
+ - 1in radial clearance (~>25mm) - measured
 
  - escs -
 Lumenier 10A Mini BLHeli_S 4-in-1 OPTO
@@ -35,10 +37,10 @@ http://www.getfpv.com/lumenier-micro-lux-f4-flight-controller.html
  - pcb square: 27mm - measured
  - pcb hypotenuse: 36mm - measured
  - screwhole diameter: 3mm - measured
- - pcb height: 1.5mm - measured
- - low end height: 4mm - measured
- - high end height: 2.5 - measured
- - populated total height: 6.5mm - measured
+ - pcb height: 1.7mm - measured
+ - low end height: 3.1mm - measured
+ - high end height: 1.5mm - measured
+ - populated total height: 6.3mm - measured
 
  - rc receiver -
 Spektrum DSMX quad race receiver with diversity
